@@ -3,7 +3,7 @@ import React from 'react';
 
 class Pokemontypes extends React.Component {
     render(){
-    return <li>{this.props.types}</li>;
+    return <li className="pokemon__box--type--each">{this.props.types}</li>;
     }
 }
 

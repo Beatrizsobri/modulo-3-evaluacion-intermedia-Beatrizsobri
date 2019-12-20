@@ -6,8 +6,8 @@ import ApiData from '../data/Api'
 
 function App() {
   return (
-    <div className="App">
-      <h1>Mi lista de Pokemon</h1>
+    <div className="App pokemon">
+      <h1 className="pokemon__name">Mi lista de Pokemon</h1>
       <Pokelist>
         {ApiData.map(Api=>{
           return (

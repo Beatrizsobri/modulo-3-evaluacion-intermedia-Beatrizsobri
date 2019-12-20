@@ -4,7 +4,7 @@ import React from 'react';
 
 class Pokelist extends React.Component {
     render(){
-    return <ul>{this.props.children}</ul>;
+    return <ul className = "pokemon__list">{this.props.children}</ul>;
     }
 }
 
