@@ -1,0 +1,2 @@
+*{padding:0;margin:0;box-sizing:border-box;list-style:none}.pokemon__list{display:flex;flex-wrap:wrap;justify-content:space-between;padding:5px}.pokemon__name{font-size:50px;color:red;width:100%;text-align:center}.pokemon__box{width:115px;margin:5px 0;display:flex;flex-direction:column;align-items:center;border:2px solid grey;border-radius:15%}.pokemon__box--image{height:100px}.pokemon__box--title{text-transform:capitalize;font-size:20px;border-top:2px solid grey;border-bottom:2px solid grey;width:100%;text-align:center}
+/*# sourceMappingURL=main.04b61328.chunk.css.map */
